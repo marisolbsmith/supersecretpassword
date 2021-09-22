@@ -1,3 +1,6 @@
 # supersecretpassword
+Choose how many charactors,numbers,uppercase and lower case
+                    letters you would like in your password and allow this
+                    password generator to generate a very hard to guess password
+                    for the best security.
 
-After long hours of despair and no luck, I somehow put a code together that achieves the objectives. I'm still unsure about some things but the fact that this generater actually generates a password is so exciting and fufilling. Not only does it work but you will indeed enjoy your super secret password!
